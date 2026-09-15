@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+data/
+
+# Keep only the curated, publishable analysis outputs.
+outputs/*
+!outputs/review/
+outputs/review/*
+!outputs/review/category_summary.csv
+!outputs/review/channel_decisions.csv

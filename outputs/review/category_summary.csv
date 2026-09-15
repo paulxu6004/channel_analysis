@@ -1,0 +1,13 @@
+﻿category,video_count,percent_of_videos
+personal_finance,42690,74.96
+investing,8285,14.55
+budgeting,3241,5.69
+retirement,2584,4.54
+financial_literacy,83,0.15
+household_finance,38,0.07
+behavioral_economics,27,0.05
+
+Finding	Implication
+56948 unique videos across 108 channels
+Largest 10 channels contain 37.4% of the videos	Reviewing these first covers a substantial part of the dataset.
+Largest 20 contain 54.4 Larger channels deserve earlier attention and stronger checking.
